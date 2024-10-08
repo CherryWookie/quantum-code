@@ -1,6 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# This code is to visualize the wave functions for the first three states,
+# in addition to the ground state for the first homework problem. Thanks to some help from Chatgpt
+# Michael Sell 2024
+
 # Define the parameters
 a = 1  # Length of the well (can be adjusted)
 
