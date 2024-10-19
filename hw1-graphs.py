@@ -25,6 +25,7 @@ psi_2 = psi_even(2, x, a)  # First excited state (n = 2, even)
 psi_3 = psi_odd(3, x, a)  # Second excited state (n = 3, odd)
 psi_4 = psi_even(5/2, x, a)  # Third state (n = 4, even)
 
+
 # Plot the wavefunctions
 plt.figure(figsize=(8, 6))
 
